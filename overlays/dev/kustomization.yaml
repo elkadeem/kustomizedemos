@@ -5,7 +5,7 @@ namespace: development
 commonLabels:
   app: testapp-dev
   develper: elkadeem
-  managed-by: Wael Elkadeem
+  managed-by: WaelElkadeem
 resources:
   - ../../base
 
